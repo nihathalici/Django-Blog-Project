@@ -1,2 +1,3 @@
-# Django-Blog-Project
-This is my repo following the specialisation courses from Coursera's Select Topics in Python Specialization by Codio.
+# Django Blog Project
+
+This is my repo following the Exercise 19-1 from the book "Python Crash Course" by Eric Matthes.
