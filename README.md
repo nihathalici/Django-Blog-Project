@@ -14,4 +14,5 @@ Make a home page that shows all posts in chronological order.
 
 Create a form for making new posts and another for editing existing posts. Fill in your forms to make sure they work.
 
-* **[Set-up](https://github.com/nihathalici/Django-Blog-Project/blob/main/Set-Up.md)**
+* **[1.Set-up](https://github.com/nihathalici/Django-Blog-Project/blob/main/Set-Up.md)**
+* **[2.Create-the-App](https://github.com/nihathalici/Django-Blog-Project/blob/main/Create-the-App.md)**
