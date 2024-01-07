@@ -17,4 +17,4 @@ Create a form for making new posts and another for editing existing posts. Fill 
 * **[1.Set-up](https://github.com/nihathalici/Django-Blog-Project/blob/main/Set-Up.md)**
 * **[2.Create-the-App](https://github.com/nihathalici/Django-Blog-Project/blob/main/Create-the-App.md)**
 * **[3.Create the Model](https://github.com/nihathalici/Django-Blog-Project/blob/main/Create-the-Model.md)**
-* **[4.Set-up](https://github.com/nihathalici/Django-Blog-Project/blob/main/Create-the-Superuser.md)**
+* **[4.Create-the-Superuser](https://github.com/nihathalici/Django-Blog-Project/blob/main/Create-the-Superuser.md)**
