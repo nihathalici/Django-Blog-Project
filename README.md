@@ -1,6 +1,6 @@
 # Django Blog Project
 
-This is my repo following the Exercise 19-1 from the book "Python Crash Course" by Eric Matthes.
+This is my repo following the Exercises 19-1, 19-2, 19-5 and 20-2 from the book "Python Crash Course" by Eric Matthes.
 
 Start a new Django project called Blog. 
 
